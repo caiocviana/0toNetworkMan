@@ -1,5 +1,5 @@
 <div align="center">
-<img src=https://media.giphy.com/media/tAeB6dptxnoli/giphy.gif" >
+<img src="https://media.giphy.com/media/tAeB6dptxnoli/giphy.gif" >
 <p>Perfectly balanced</p>
 </div>
 
