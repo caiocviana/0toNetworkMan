@@ -33,8 +33,6 @@ Aqui você vai encontrar conceitos teóricos como por exemplo meios Camada OSI, 
 
 ## Pré Requisitos Técnicos
 
----
-
 - [Terraform](https://www.terraform.io/downloads.html)
 - [VScode](https://code.visualstudio.com/download)
 - [Git](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git)
