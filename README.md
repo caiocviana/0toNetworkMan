@@ -8,7 +8,7 @@
 Um overview sobre redes, abordando conceitos básicos, utilizando laboratórios em Cloud.
 
 ## Conteúdo
-Aqui você vai encontrar conceitos teóricos como por exemplo meios Camada OSI, VLANs e Subnets, sendo utilizados e configurados nas tecnologias:
+Aqui você vai encontrar conceitos teóricos como por exemplo Camada OSI, VLANs e Subnets, sendo utilizados e configurados nas tecnologias:
 
 - Fortigate;
 - Juniper;
