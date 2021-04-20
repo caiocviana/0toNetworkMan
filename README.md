@@ -1,19 +1,14 @@
-# GIT
-
-![https://media.giphy.com/media/tAeB6dptxnoli/giphy.gif](https://media.giphy.com/media/tAeB6dptxnoli/giphy.gif)
+<div align="center">
+<img src=https://media.giphy.com/media/tAeB6dptxnoli/giphy.gif" >
+<p>Perfectly balanced</p>
+</div>
 
 ### 🏗️ Estamos em construção! 🏗️
-
 ---
-
 # 0 to NetworkMan!
-
 Um overview sobre redes, abordando conceitos básicos, utilizando laboratórios em Cloud.
 
 ## Conteúdo
-
----
-
 Aqui você vai encontrar conceitos teóricos como por exemplo meios Camada OSI, VLANs e Subnets, sendo utilizados e configurados nas tecnologias:
 
 - Fortigate;
@@ -22,8 +17,6 @@ Aqui você vai encontrar conceitos teóricos como por exemplo meios Camada OSI, 
 - GCP.
 
 ## Pré requisitos
-
----
 
 📚 Vontade de aprender e colaborar, afinal a ideia não é ser uma aula e sim uma troca de experiências;
 
